@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 18,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelZoom": true
+}
